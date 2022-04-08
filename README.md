@@ -1,8 +1,8 @@
-# MemoryGamePokemon
+## MemoryGamePokemon
 
-<h2>:pencil2:PROJETO</h2>
+### :pencil2:PROJETO
 
-  <p>Projetinho criado como exercício durante as aulas de JS do curso do progbr.</p>
+  Projetinho criado como exercício durante as aulas de JS do curso do progbr.
   <br>
 <div >
   <img src="https://user-images.githubusercontent.com/56052419/162217757-45ea89f3-b404-4551-848c-9b1832d8f946.JPG" width="250px"/>
