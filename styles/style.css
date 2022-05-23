@@ -19,7 +19,6 @@ body {
   height: 150px;
   position: relative;
   transform-style: preserve-3d;
-
   transition: transform linear .5s;
 }
 
